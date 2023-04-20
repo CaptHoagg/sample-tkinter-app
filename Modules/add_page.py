@@ -11,7 +11,7 @@ class AddPage:
         self.window = Tk()
         self.window.geometry("500x500")
         self.window.configure(bg="#ffffff")
-        self.window.title("DICTIONARY BY TEAM 7")
+        self.window.title("DICTIONARY BY Team 5555555")
         self.window.iconphoto(False, PhotoImage(file='./Images/icon.png'))
         self.canvas = Canvas(
             self.window,
